@@ -1,6 +1,8 @@
 # pytextgenscript
 Pytextgenscript - small interpreter for TextGen Script language.
 
+Made by Ekaterina Ambartsumova and Vladislav Janvarev.
+
 Require sexpdata library
 ```pip install sexpdata```
 
